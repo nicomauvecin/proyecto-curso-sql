@@ -114,7 +114,7 @@ Retomando la pregunta del avance del proyecto anterior (parte 1): ¿Cuáles son 
 |:--|:---|:---|:---
 |1|Marketing|Markovitch|108407
 |2|Marketing|Minakawa|106491
-|3|Research|MarkoStaelinvitch|103244
+|3|Research|Staelin|103244
 |4|Sales|Zhang|101987
 |5|Sales|Kaelbling|95873
 
