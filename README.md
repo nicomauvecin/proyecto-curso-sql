@@ -63,6 +63,7 @@ Escribe una consulta que enlista el nombreyel apellido SIN REPETICIONES de los e
 |5|Arie|Staelin|103244
 
 * Sin repetir
+
 ||nombre|apellido|salario
 |:--|:---|:---|:---
 |1|Margareta|Markovitch|108407
